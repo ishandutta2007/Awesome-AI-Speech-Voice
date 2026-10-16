@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Speech-Voice/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Speech-Voice?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Speech-Voice/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Speech-Voice?style=for-the-badge&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Speech-Voice/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Speech-Voice?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Speech-Voice/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,68 +69,68 @@ The sector exhibits **moderate fragmentation alongside emerging winner-take-most
 
 ## 💻 Open-Source GitHub Projects (Sorted by Stars)
 
-Every project below is sorted in descending order by GitHub stargazers count, equipped with an official social star badge linked directly to its stargazers page.
+Every project below is sorted in descending order by GitHub stargazers count, equipped with an official social Stars_Badge linked directly to its stargazers page.
 
 ### 🏆 Top Tier Speech Foundations
 
-1. **[OpenAI Whisper](https://github.com/openai/whisper)** [![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers)  
+1. **[OpenAI Whisper](https://github.com/openai/whisper)** [![GitHub_Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers)  
    **The foundational benchmark for General-Purpose Speech Recognition** (MIT). Trained on 680,000 hours of multilingual and multitask supervised audio collected from the web. Features multilingual speech recognition, speech translation, and voice activity detection with high robustness against accents and background noise.
 
-2. **[Voicebox (jamiepine)](https://github.com/jamiepine/voicebox)** [![GitHub stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=social&color=white)](https://github.com/jamiepine/voicebox/stargazers)  
+2. **[Voicebox (jamiepine)](https://github.com/jamiepine/voicebox)** [![GitHub_Stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=social&color=white)](https://github.com/jamiepine/voicebox/stargazers)  
    **Multi-engine local voice cloning application** (open-source) packed with four high-performance TTS engines: Qwen3-TTS 1.7B/0.6B, LuxTTS, Chatterbox Multilingual (23 languages), and Chatterbox Turbo. Features paralinguistic emotional controls (`[laugh]`, `[sigh]`, `[gasp]`), unlimited generation length with intelligent audio chunking/crossfading, asynchronous queue pipelines, and multi-GPU acceleration across NVIDIA, Apple Silicon, AMD, and CPU.
 
-3. **[VibeVoice (Microsoft)](https://github.com/microsoft/VibeVoice)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social&color=white)](https://github.com/microsoft/VibeVoice/stargazers)  
+3. **[VibeVoice (Microsoft)](https://github.com/microsoft/VibeVoice)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social&color=white)](https://github.com/microsoft/VibeVoice/stargazers)  
    **Microsoft's frontier voice AI family** (MIT) unifying **long-form expressive TTS and diarized ASR** into an integrated architecture. **VibeVoice-ASR** processes **60 minutes of audio in a single pass** outputting structured metadata: *Who (speaker diarization), When (timestamps), and What (transcription)*. **VibeVoice-TTS** synthesizes **up to 90 minutes of multi-speaker conversational dialogue** with continuous speech tokenizers running at a **7.5 Hz ultra-low frame rate** backed by next-token diffusion. Includes built-in AI audio disclaimers, imperceptible acoustic watermarking, and model variants from 0.5B to 7B parameters.
 
-4. **[whisper.cpp](https://github.com/ggml-org/whisper.cpp)** [![GitHub stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=social&color=white)](https://github.com/ggml-org/whisper.cpp/stargazers)  
+4. **[whisper.cpp](https://github.com/ggml-org/whisper.cpp)** [![GitHub_Stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=social&color=white)](https://github.com/ggml-org/whisper.cpp/stargazers)  
    **High-performance C/C++ implementation of OpenAI's Whisper** (MIT). Features plain C/C++ execution without external dependencies, 4-bit/5-bit/8-bit integer quantization via GGML, Apple Silicon Metal acceleration, Vulkan/CUDA GPU support, and real-time streaming speech recognition.
 
-5. **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)  
+5. **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub_Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)  
    **Deep learning toolkit for Text-to-Speech generation** (MPL-2.0). Features XTTS v2 with zero-shot 3-second voice cloning across 17+ languages, Tacotron2, VITS, YourTTS, and over 40+ pre-trained expressive voice models for research and production pipelines.
 
-6. **[ChatTTS](https://github.com/2noise/ChatTTS)** [![GitHub stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social&color=white)](https://github.com/2noise/ChatTTS/stargazers)  
+6. **[ChatTTS](https://github.com/2noise/ChatTTS)** [![GitHub_Stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social&color=white)](https://github.com/2noise/ChatTTS/stargazers)  
    **Conversational voice foundation model** specifically optimized for dialog scenarios like assistant agents, podcast hosts, and story narration. Features natural conversational filler words, laughter insertion, breath control, and multi-speaker dialogue prosody modeling.
 
-7. **[VoxCPM2](https://github.com/OpenBMB/VoxCPM)** [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/VoxCPM?style=social&color=white)](https://github.com/OpenBMB/VoxCPM/stargazers)  
+7. **[VoxCPM2](https://github.com/OpenBMB/VoxCPM)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenBMB/VoxCPM?style=social&color=white)](https://github.com/OpenBMB/VoxCPM/stargazers)  
    **Fully open-source multilingual speech generation foundation model** (Apache-2.0) from OpenBMB. Unifies 30 languages, 9 regional Chinese dialects, voice design, and style-controllable cloning in a single 2B parameter backbone. Generates 48kHz studio-quality output via AudioVAE V2 with an average 1.68% WER.
 
-8. **[Bark (Suno)](https://github.com/suno-ai/bark)** [![GitHub stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers)  
+8. **[Bark (Suno)](https://github.com/suno-ai/bark)** [![GitHub_Stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers)  
    **Transformer-based text-to-audio foundation model** (MIT) from Suno. Synthesizes expressive speech with natural background noise, music, sound effects, sighs, hesitations, laughter, and emotional inflections across multiple languages.
 
-9. **[OpenVoice (MyShell)](https://github.com/myshell-ai/OpenVoice)** [![GitHub stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social&color=white)](https://github.com/myshell-ai/OpenVoice/stargazers)  
+9. **[OpenVoice (MyShell)](https://github.com/myshell-ai/OpenVoice)** [![GitHub_Stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social&color=white)](https://github.com/myshell-ai/OpenVoice/stargazers)  
    **Versatile instant voice cloning framework** (MIT). Disentangles voice style, tone color, emotion, accent, rhythm, pauses, and pitch. Enables cloning voice timbre from short audio samples while granularly controlling emotion and delivery language.
 
-10. **[Fish Speech](https://github.com/fishaudio/fish-speech)** [![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers)  
+10. **[Fish Speech](https://github.com/fishaudio/fish-speech)** [![GitHub_Stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers)  
     **Frontier text-to-speech architecture** with DualAR and VQ-GAN audio tokenizers. Delivers ultra-low latency, zero-shot voice cloning, emotional prosody, and multilingual synthesis for real-time voice agents.
 
-11. **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** [![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social&color=white)](https://github.com/SYSTRAN/faster-whisper/stargazers)  
+11. **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** [![GitHub_Stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social&color=white)](https://github.com/SYSTRAN/faster-whisper/stargazers)  
     **Reimplementation of Whisper using CTranslate2** (MIT). Delivers up to **4x faster transcription** speed than OpenAI Whisper while consuming significantly less GPU/CPU memory with INT8/FP16 quantization.
 
-12. **[WhisperX](https://github.com/m-bain/whisperX)** [![GitHub stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social&color=white)](https://github.com/m-bain/whisperX/stargazers)  
+12. **[WhisperX](https://github.com/m-bain/whisperX)** [![GitHub_Stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social&color=white)](https://github.com/m-bain/whisperX/stargazers)  
     **Time-accurate speech transcription framework** (BSD-2-Clause) with phoneme-level word alignment via wav2vec 2.0, multi-speaker diarization using PyAnnote, and batched inference for 70x real-time transcription speeds.
 
-13. **[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-TTS?style=social&color=white)](https://github.com/QwenLM/Qwen3-TTS/stargazers)  
+13. **[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** [![GitHub_Stars](https://img.shields.io/github/stars/QwenLM/Qwen3-TTS?style=social&color=white)](https://github.com/QwenLM/Qwen3-TTS/stargazers)  
     **Alibaba's multilingual TTS family** (Apache-2.0) with **3-second voice cloning** and description-based voice design. Trained on 5 million hours of speech across 10 languages using a dual-track LM architecture for real-time synthesis (0.6B and 1.7B parameter variants).
 
-14. **[Piper](https://github.com/rhasspy/piper)** [![GitHub stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers)  
+14. **[Piper](https://github.com/rhasspy/piper)** [![GitHub_Stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers)  
     **Fast, local neural text-to-speech engine** (MIT) optimized for Raspberry Pi and single-board edge computers using VITS models. Generates real-time natural speech with negligible CPU overhead.
 
-15. **[MeloTTS (MyShell)](https://github.com/myshell-ai/MeloTTS)** [![GitHub stars](https://img.shields.io/github/stars/myshell-ai/MeloTTS?style=social&color=white)](https://github.com/myshell-ai/MeloTTS/stargazers)  
+15. **[MeloTTS (MyShell)](https://github.com/myshell-ai/MeloTTS)** [![GitHub_Stars](https://img.shields.io/github/stars/myshell-ai/MeloTTS?style=social&color=white)](https://github.com/myshell-ai/MeloTTS/stargazers)  
     **High-speed multilingual TTS library** supporting English, Spanish, French, Chinese, Japanese, and Korean. Designed for ultra-fast CPU inference and seamless integration in interactive conversational agents.
 
-16. **[MetaVoice-1B](https://github.com/metavoiceio/metavoice-src)** [![GitHub stars](https://img.shields.io/github/stars/metavoiceio/metavoice-src?style=social&color=white)](https://github.com/metavoiceio/metavoice-src/stargazers)  
+16. **[MetaVoice-1B](https://github.com/metavoiceio/metavoice-src)** [![GitHub_Stars](https://img.shields.io/github/stars/metavoiceio/metavoice-src?style=social&color=white)](https://github.com/metavoiceio/metavoice-src/stargazers)  
     **1.2B parameter foundation model** trained on 100K hours of speech (Apache-2.0). Features zero-shot cloning with 30s reference audio, emotional speech prosody, fine-tuning support, and multi-band diffusion waveform generation.
 
-17. **[stable-ts](https://github.com/jianfch/stable-ts)** [![GitHub stars](https://img.shields.io/github/stars/jianfch/stable-ts?style=social&color=white)](https://github.com/jianfch/stable-ts/stargazers)  
+17. **[stable-ts](https://github.com/jianfch/stable-ts)** [![GitHub_Stars](https://img.shields.io/github/stars/jianfch/stable-ts?style=social&color=white)](https://github.com/jianfch/stable-ts/stargazers)  
     **Stabilized timestamping framework for Whisper** (MIT). Uses cross-attention weights and dynamic time warping to generate ultra-precise word-level timestamps, eliminating hallucinated repeats and missing segments.
 
-18. **[SpeechT5 (Microsoft)](https://github.com/microsoft/SpeechT5)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/SpeechT5?style=social&color=white)](https://github.com/microsoft/SpeechT5/stargazers)  
+18. **[SpeechT5 (Microsoft)](https://github.com/microsoft/SpeechT5)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/SpeechT5?style=social&color=white)](https://github.com/microsoft/SpeechT5/stargazers)  
     **Unified-modal encoder-decoder pre-training** for speech and text processing (MIT). Handles spoken language identification, speech-to-speech translation, voice conversion, and neural TTS.
 
-19. **[Vocalinux](https://github.com/VocaHQ/vocalinux)** [![GitHub stars](https://img.shields.io/github/stars/VocaHQ/vocalinux?style=social&color=white)](https://github.com/VocaHQ/vocalinux/stargazers)  
+19. **[Vocalinux](https://github.com/VocaHQ/vocalinux)** [![GitHub_Stars](https://img.shields.io/github/stars/VocaHQ/vocalinux?style=social&color=white)](https://github.com/VocaHQ/vocalinux/stargazers)  
     **Voice dictation utility for Linux** (open-source) that streams text directly into active windows. Supports whisper.cpp (Vulkan), Faster Whisper, VOSK, and Parakeet across AppImage, Flatpak, Snap, and AUR.
 
-20. **[chttr](https://github.com/robjobbed/chttr)** [![GitHub stars](https://img.shields.io/github/stars/robjobbed/chttr?style=social&color=white)](https://github.com/robjobbed/chttr/stargazers)  
+20. **[chttr](https://github.com/robjobbed/chttr)** [![GitHub_Stars](https://img.shields.io/github/stars/robjobbed/chttr?style=social&color=white)](https://github.com/robjobbed/chttr/stargazers)  
     **Local privacy-first meeting notes and voice dictation for Linux**. Uses local Parakeet ASR, PipeWire system audio capture, WeSpeaker voice embeddings for speaker naming, and Claude-powered markdown generation.
 
 ---
@@ -150,8 +150,8 @@ Contributions are welcome and highly appreciated! To submit a new SaaS product, 
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 📝 **Add or update the entry** in [`README.md`](README.md):
-   - Include tool name, official link, star badge (if open-source), concise feature summary, pricing, and free tier limits.
-   - For open-source tools, maintain descending sort order based on star counts.
+   - Include tool name, official link, Stars_Badge (if open-source), concise feature summary, pricing, and free tier limits.
+   - For open-source tools, maintain descending sort order based on Stars_Counts.
 3. 🚀 **Submit a Pull Request** with a brief summary of additions and official references.
 
 ---
