@@ -1,48 +1,56 @@
-# Awesome-AI-Speech-Voice
+# 🎙️ Awesome AI Speech & Voice
 
-# Awesome-AI-Speech-Voice
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Speech & Voice Banner" width="100%"/>
+</p>
 
-## Top AI Speech & Voice Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Speech-Voice/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Speech-Voice?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Speech-Voice/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Speech-Voice?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Speech-Voice/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
+## 🌟 Top AI Speech, Voice Cloning & Audio Synthesis Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+> ⚡ **A comprehensive, SEO-optimized, community-curated list of frontier SaaS platforms and state-of-the-art open-source GitHub repositories for AI Speech, Voice Cloning, Text-to-Speech (TTS), Automatic Speech Recognition (ASR), and Real-Time Conversational Voice Agents.**
 
-*Focused on Voice Cloning, Long-Form Transcription & Expressive Speech Synthesis*  
+*Focused on Instant Zero-Shot Voice Cloning, Long-Form Audio Transcription, Ultra-Low Latency Speech Tokenizers & Expressive Multi-Speaker Generation.*
 
-**Last updated: October 2026**
+📅 **Last updated: October 2026**
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Speech & Voice**. These tools enable creators and developers to clone voices from short audio samples, transcribe hour-long recordings in a single pass, and synthesize expressive multi-speaker conversational audio—from podcast generation to real-time voice agents.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects (Sorted by Stars)](#-open-source-github-projects-sorted-by-stars)
+  - [Top Tier Speech Foundations](#-top-tier-speech-foundations)
+  - [Specialized Engines & Edge Inference](#-specialized-engines--edge-inference)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer & Ethics](#️-disclaimer--ethics)
 
+---
 
+## 📊 Sector Overview & Market Dynamics
 
-**Examples** include Descript, Murf AI, ElevenLabs, PlayHT, Resemble AI, Speechify, LOVO AI, WellSaid Labs, Podcastle, and Otter.ai (the category leaders).
+The global AI voice generation and speech synthesis market is valued at approximately **$4.16B to $7.7B (2025–2026)** and is projected to surpass **$21B+ by 2030**, advancing at a rapid Compound Annual Growth Rate (CAGR) of **~30%**. 
 
+The sector exhibits **moderate fragmentation alongside emerging winner-take-most dynamics**: 
+- **Frontier Foundation Voice Model Providers** (such as ElevenLabs) capture massive global developer mindshare and high-volume enterprise API workloads across conversational agents, media localization, and automated support.
+- **Vertical Workflow SaaS Leaders** (such as Descript in non-linear audio/video post-production, and Otter.ai in meeting transcription) command high user retention through deeply integrated desktop workflows, collaborative transcripts, and domain-tailored intelligence.
+- **The Open-Source Vanguard** (led by OpenAI Whisper, Whisper.cpp, VibeVoice, Coqui TTS, and ChatTTS) offers robust offline, self-hosted, zero-GPU edge inference that matches commercial benchmarks while maintaining full data sovereignty.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local voice cloning, and open ASR/TTS pipelines—ideal for podcasters, accessibility engineers, and developers seeking transparent, vendor-independent speech AI.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global AI voice generation and speech synthesis market is valued at approximately **$4.16B to $7.7B (2025–2026)** and is projected to surpass **$21B+ by 2030**, advancing at a rapid CAGR of ~30%. The sector is **moderately fragmented with emergent winner-take-most dynamics**: frontier foundation voice model providers (like ElevenLabs) capture outsized enterprise API contracts, while niche vertical SaaS winners (e.g., Otter.ai in meeting transcription, Descript in audio/video editing) maintain entrenched workflows and defensibility.
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS / Hosted Platforms
 
 | Company / Product | Size (Valuation / Revenue) | Description & Key Features | Starting Pricing | Free Tier / Trial Limit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,130 +65,125 @@ The global AI voice generation and speech synthesis market is valued at approxim
 | **[Murf AI](https://murf.ai/)** | **~$2M–$5M ARR** ($11.5M raised) | Studio-quality AI voiceover creator with 120+ voices in 20+ languages, voice changer, and presentation sync for L&D and marketers. | **$19/user/month** billed annually ($29/mo monthly; Creator Plan: 24 hrs voice gen/year, commercial license) | **Free Forever Plan**: 10 minutes total voice generation/transcription per month, full studio editor access (browser preview only; downloads disabled) |
 | **[LOVO AI](https://lovo.ai/)** | **$1M–$3M ARR** (Accelerated by Berkeley SkyDeck, $6M raised) | AI voice generator and video editor (Genny) offering 500+ voices across 100+ languages, script generation, and voice cloning. | **$19/month** billed annually ($29/mo monthly; Basic Plan: 2 hrs voice generation/mo) | **14-day Free Trial Plan**: 20 minutes of voice generation credits, watermark-free downloads, and access to all Pro features during the 14-day window |
 
+---
 
+## 💻 Open-Source GitHub Projects (Sorted by Stars)
 
-## Open-Source GitHub Projects
+Every project below is sorted in descending order by GitHub stargazers count, equipped with an official social star badge linked directly to its stargazers page.
 
+### 🏆 Top Tier Speech Foundations
 
+1. **[OpenAI Whisper](https://github.com/openai/whisper)** [![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers)  
+   **The foundational benchmark for General-Purpose Speech Recognition** (MIT). Trained on 680,000 hours of multilingual and multitask supervised audio collected from the web. Features multilingual speech recognition, speech translation, and voice activity detection with high robustness against accents and background noise.
 
-- **[VibeVoice (Microsoft)](https://github.com/microsoft/VibeVoice)**  
+2. **[Voicebox (jamiepine)](https://github.com/jamiepine/voicebox)** [![GitHub stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=social&color=white)](https://github.com/jamiepine/voicebox/stargazers)  
+   **Multi-engine local voice cloning application** (open-source) packed with four high-performance TTS engines: Qwen3-TTS 1.7B/0.6B, LuxTTS, Chatterbox Multilingual (23 languages), and Chatterbox Turbo. Features paralinguistic emotional controls (`[laugh]`, `[sigh]`, `[gasp]`), unlimited generation length with intelligent audio chunking/crossfading, asynchronous queue pipelines, and multi-GPU acceleration across NVIDIA, Apple Silicon, AMD, and CPU.
 
-  **Microsoft's open-source frontier voice AI family** (MIT) combining **long-form TTS and ASR** in a unified architecture. **42,000+ GitHub stars** within weeks of launch . **VibeVoice-ASR** processes **60 minutes of audio in a single pass** with structured output: **Who (speaker), When (timestamps), What (content)** . **VibeVoice-TTS** synthesizes **up to 90 minutes of multi-speaker conversational audio** with consistent speaker identity across the entire output . **Core innovation**: continuous speech tokenizers operating at **7.5 Hz ultra-low frame rate** with next-token diffusion framework . **Model zoo**: Streaming-0.5B (real-time, single speaker), 1.5B (~90 min, 4 speakers), 7B (~45 min, 4 speakers) . **Fine-tuning supported** for adapting to new languages or voices . **Safety features**: audible AI disclaimer, imperceptible watermarking, and inference logging added after misuse incidents . **Note**: Repository was temporarily removed by Microsoft after voice cloning misuse, then restored with safety measures; community fork preserved development .
+3. **[VibeVoice (Microsoft)](https://github.com/microsoft/VibeVoice)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=social&color=white)](https://github.com/microsoft/VibeVoice/stargazers)  
+   **Microsoft's frontier voice AI family** (MIT) unifying **long-form expressive TTS and diarized ASR** into an integrated architecture. **VibeVoice-ASR** processes **60 minutes of audio in a single pass** outputting structured metadata: *Who (speaker diarization), When (timestamps), and What (transcription)*. **VibeVoice-TTS** synthesizes **up to 90 minutes of multi-speaker conversational dialogue** with continuous speech tokenizers running at a **7.5 Hz ultra-low frame rate** backed by next-token diffusion. Includes built-in AI audio disclaimers, imperceptible acoustic watermarking, and model variants from 0.5B to 7B parameters.
 
+4. **[whisper.cpp](https://github.com/ggml-org/whisper.cpp)** [![GitHub stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=social&color=white)](https://github.com/ggml-org/whisper.cpp/stargazers)  
+   **High-performance C/C++ implementation of OpenAI's Whisper** (MIT). Features plain C/C++ execution without external dependencies, 4-bit/5-bit/8-bit integer quantization via GGML, Apple Silicon Metal acceleration, Vulkan/CUDA GPU support, and real-time streaming speech recognition.
 
+5. **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)  
+   **Deep learning toolkit for Text-to-Speech generation** (MPL-2.0). Features XTTS v2 with zero-shot 3-second voice cloning across 17+ languages, Tacotron2, VITS, YourTTS, and over 40+ pre-trained expressive voice models for research and production pipelines.
 
-- **[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)**  
+6. **[ChatTTS](https://github.com/2noise/ChatTTS)** [![GitHub stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social&color=white)](https://github.com/2noise/ChatTTS/stargazers)  
+   **Conversational voice foundation model** specifically optimized for dialog scenarios like assistant agents, podcast hosts, and story narration. Features natural conversational filler words, laughter insertion, breath control, and multi-speaker dialogue prosody modeling.
 
-  **Alibaba's open-source multilingual TTS family** (Apache-2.0) with **3-second voice cloning** and description-based voice design . **Trained on 5 million hours of speech** across 10 languages . **Dual-track LM architecture** for real-time synthesis. **Voice Design** creates entirely novel voices from natural language descriptions (e.g., "gruff voice") . **Models**: 1.7B (~4.5GB) and 0.6B (~2.5GB) variants . **The most accessible state-of-the-art voice cloning**—runs in browser via Hugging Face demo .
+7. **[VoxCPM2](https://github.com/OpenBMB/VoxCPM)** [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/VoxCPM?style=social&color=white)](https://github.com/OpenBMB/VoxCPM/stargazers)  
+   **Fully open-source multilingual speech generation foundation model** (Apache-2.0) from OpenBMB. Unifies 30 languages, 9 regional Chinese dialects, voice design, and style-controllable cloning in a single 2B parameter backbone. Generates 48kHz studio-quality output via AudioVAE V2 with an average 1.68% WER.
 
+8. **[Bark (Suno)](https://github.com/suno-ai/bark)** [![GitHub stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers)  
+   **Transformer-based text-to-audio foundation model** (MIT) from Suno. Synthesizes expressive speech with natural background noise, music, sound effects, sighs, hesitations, laughter, and emotional inflections across multiple languages.
 
+9. **[OpenVoice (MyShell)](https://github.com/myshell-ai/OpenVoice)** [![GitHub stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social&color=white)](https://github.com/myshell-ai/OpenVoice/stargazers)  
+   **Versatile instant voice cloning framework** (MIT). Disentangles voice style, tone color, emotion, accent, rhythm, pauses, and pitch. Enables cloning voice timbre from short audio samples while granularly controlling emotion and delivery language.
 
-- **[MetaVoice-1B](https://github.com/metavoiceio/metavoice-src)**  
+10. **[Fish Speech](https://github.com/fishaudio/fish-speech)** [![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers)  
+    **Frontier text-to-speech architecture** with DualAR and VQ-GAN audio tokenizers. Delivers ultra-low latency, zero-shot voice cloning, emotional prosody, and multilingual synthesis for real-time voice agents.
 
-  **1.2B parameter base model trained on 100K hours of speech** (Apache-2.0) . **Zero-shot cloning** for American and British voices with **30s reference audio** . **Emotional speech rhythm and tone** in English . **Cross-lingual voice cloning with finetuning**—success with as little as **1 minute training data** . **Arbitrary length synthesis** . **Architecture**: causal GPT predicts EnCodec tokens, non-causal transformer predicts remaining hierarchies, multi-band diffusion generates waveforms .
+11. **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** [![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social&color=white)](https://github.com/SYSTRAN/faster-whisper/stargazers)  
+    **Reimplementation of Whisper using CTranslate2** (MIT). Delivers up to **4x faster transcription** speed than OpenAI Whisper while consuming significantly less GPU/CPU memory with INT8/FP16 quantization.
 
+12. **[WhisperX](https://github.com/m-bain/whisperX)** [![GitHub stars](https://img.shields.io/github/stars/m-bain/whisperX?style=social&color=white)](https://github.com/m-bain/whisperX/stargazers)  
+    **Time-accurate speech transcription framework** (BSD-2-Clause) with phoneme-level word alignment via wav2vec 2.0, multi-speaker diarization using PyAnnote, and batched inference for 70x real-time transcription speeds.
 
+13. **[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)** [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen3-TTS?style=social&color=white)](https://github.com/QwenLM/Qwen3-TTS/stargazers)  
+    **Alibaba's multilingual TTS family** (Apache-2.0) with **3-second voice cloning** and description-based voice design. Trained on 5 million hours of speech across 10 languages using a dual-track LM architecture for real-time synthesis (0.6B and 1.7B parameter variants).
 
-- **[VoxCPM2](https://github.com/OpenBMB/VoxCPM)**  
+14. **[Piper](https://github.com/rhasspy/piper)** [![GitHub stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers)  
+    **Fast, local neural text-to-speech engine** (MIT) optimized for Raspberry Pi and single-board edge computers using VITS models. Generates real-time natural speech with negligible CPU overhead.
 
-  **Fully open-source multilingual speech generation foundation model** (Apache-2.0) from OpenBMB . **Unifies 30 languages, 9 Chinese dialects, voice design, and style-controllable cloning** in a single 2B parameter backbone . **Voice Design** from natural language descriptions . **48kHz studio-quality output** via AudioVAE V2 . **State-of-the-art performance** with **1.68% average WER** across 30 languages . **Context-aware synthesis** infers prosody from text content .
+15. **[MeloTTS (MyShell)](https://github.com/myshell-ai/MeloTTS)** [![GitHub stars](https://img.shields.io/github/stars/myshell-ai/MeloTTS?style=social&color=white)](https://github.com/myshell-ai/MeloTTS/stargazers)  
+    **High-speed multilingual TTS library** supporting English, Spanish, French, Chinese, Japanese, and Korean. Designed for ultra-fast CPU inference and seamless integration in interactive conversational agents.
 
+16. **[MetaVoice-1B](https://github.com/metavoiceio/metavoice-src)** [![GitHub stars](https://img.shields.io/github/stars/metavoiceio/metavoice-src?style=social&color=white)](https://github.com/metavoiceio/metavoice-src/stargazers)  
+    **1.2B parameter foundation model** trained on 100K hours of speech (Apache-2.0). Features zero-shot cloning with 30s reference audio, emotional speech prosody, fine-tuning support, and multi-band diffusion waveform generation.
 
+17. **[stable-ts](https://github.com/jianfch/stable-ts)** [![GitHub stars](https://img.shields.io/github/stars/jianfch/stable-ts?style=social&color=white)](https://github.com/jianfch/stable-ts/stargazers)  
+    **Stabilized timestamping framework for Whisper** (MIT). Uses cross-attention weights and dynamic time warping to generate ultra-precise word-level timestamps, eliminating hallucinated repeats and missing segments.
 
-- **[Voicebox (jamiepine)](https://github.com/jamiepine/voicebox)**  
+18. **[SpeechT5 (Microsoft)](https://github.com/microsoft/SpeechT5)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/SpeechT5?style=social&color=white)](https://github.com/microsoft/SpeechT5/stargazers)  
+    **Unified-modal encoder-decoder pre-training** for speech and text processing (MIT). Handles spoken language identification, speech-to-speech translation, voice conversion, and neural TTS.
 
-  **Multi-engine local voice cloning app** (open-source) with **four TTS engines**: Qwen3-TTS 1.7B/0.6B, LuxTTS, Chatterbox Multilingual (23 languages), and Chatterbox Turbo . **Paralinguistic emotion controls** via inline tags (`[laugh]`, `[sigh]`, `[gasp]`, etc.) . **Unlimited generation length** with auto-chunking and crossfading . **Async generation queue** for non-blocking synthesis . **Post-processing effects pipeline** . **GPU vendor support**: NVIDIA, AMD, Apple Silicon, CPU .
+19. **[Vocalinux](https://github.com/VocaHQ/vocalinux)** [![GitHub stars](https://img.shields.io/github/stars/VocaHQ/vocalinux?style=social&color=white)](https://github.com/VocaHQ/vocalinux/stargazers)  
+    **Voice dictation utility for Linux** (open-source) that streams text directly into active windows. Supports whisper.cpp (Vulkan), Faster Whisper, VOSK, and Parakeet across AppImage, Flatpak, Snap, and AUR.
 
-
-
-- **[chttr](https://github.com/robjobbed/chttr)**  
-
-  **Voice dictation and meeting notes for Linux** (open-source) with **local Parakeet speech-to-text** and **Claude cleanup** . **Speaker-named transcripts** with **no bot in your calls**—captures system audio and microphone via PipeWire . **Voices identified** via WeSpeaker embeddings and clustering, with **names resolved from Google Meet captions, calendar, and Claude** . **Meetings output** as Markdown with frontmatter, summary, decisions, action items, and timestamped transcript . **CLI and MCP access** to meetings .
-
-
-
-- **[Vocalinux](https://github.com/VocaHQ/vocalinux)**  
-
-  **Voice dictation for Linux** (open-source) that types into whatever app has focus . **Multiple engines**: whisper.cpp (Vulkan GPU on AMD/Intel/NVIDIA), OpenAI Whisper (PyTorch/CUDA), Faster Whisper (CPU INT8), VOSK (low RAM), Parakeet (CPU, 25 European languages) . **AppImage, Flatpak, Snap, and AUR** distribution . **The most accessible local dictation tool for Linux** .
-
-
-
-- **[Audio8-TTS-0.1B-ONNX-INT8](https://aihub.caict.ac.cn/models/Audio8/Audio8-TTS-0.1B-ONNX-INT8)**  
-
-  **Lightweight multilingual TTS for CPU inference** (Apache-2.0) with **zero-shot voice cloning** . **~100M parameters** with **INT8 quantization**—**~0.6GB memory footprint** . **11 languages**: Cantonese, Chinese, Dutch, English, French, German, Italian, Japanese, Korean, Polish, Spanish . **DualAR architecture** inspired by Fish Audio S2 Pro . **~19ms per slow-AR token, 8ms per fast-AR frame** on 8-thread CPU . **No PyTorch or Transformers dependency** after download . **The most resource-efficient open-source TTS** for edge deployment .
-
-
-
-- **[EmbeddingGemma-2-Transcribe-LiteRT](https://huggingface.co/mlboydaisuke/EmbeddingGemma-2-Transcribe-LiteRT)**  
-
-  **English speech-to-text on Android phone** (open-source) with **all processing on-device** . **Encoder converts every 40ms of audio into a vector**, reader decodes as one of 200,000 English words . **Files include encoder (589MB), reader (361MB), and vocab** . **The most privacy-preserving mobile transcription**—audio, model, and transcript stay on phone .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[VibeVoice-ASR-BitNet](https://github.com/microsoft/VibeASR.cpp)** — Edge CPU inference engine for VibeVoice-ASR (open-source) . **Heterogeneous quantization** (I8_S + I2_S) compresses model from **4.62 GB to 1.58 GB** with **real-time inference (RTF < 1) on 3+ CPU threads—no GPU required** .
-
-- **[VibeVoice-ASR-Streaming](https://github.com/microsoft/VibeVoice)** — Unified streaming ASR that transcribes **"who said what" as speech arrives** with support for customized hotwords and 10 languages .
-
-- **[VibeVoice-ASR vLLM](https://github.com/microsoft/VibeVoice)** — **vLLM inference support** for faster VibeVoice-ASR transcription .
-
-- **[Qwen3-TTS mlx-audio](https://github.com/Blaizzy/mlx-audio)** — Apple Silicon MLX port of Qwen3-TTS .
-
-- Community **n8n** workflows for speech synthesis pipeline automation and transcription routing.
-
-
-
-**Frameworks for building custom systems**: Combine **VibeVoice** for long-form multi-speaker TTS and 60-minute ASR with **Qwen3-TTS** for 3-second voice cloning, **VoxCPM2** for 30-language synthesis, **Audio8-TTS** for CPU-efficient edge deployment, and **chttr** or **Vocalinux** for local dictation—creating a fully self-hosted, enterprise-grade speech AI platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- AI speech and voice tools must comply with **voice cloning consent requirements, wiretapping laws, and data protection regulations** (GDPR, CCPA, etc.). **Never clone a voice without explicit recorded consent.**
-
-- **Open-source voice AI is mature and production-ready.** VibeVoice handles **60-minute ASR in a single pass** and **90-minute multi-speaker TTS** . Qwen3-TTS provides **3-second voice cloning** trained on 5M hours of speech . **These are genuine alternatives to ElevenLabs and Descript.**
-
-- **Voice cloning capability has democratized.** As Simon Willison noted: "voice cloning is now something that's available to anyone with a GPU and a few GBs of VRAM... or in a web browser that can access Hugging Face" . **This power requires responsible use.**
-
-- **Microsoft's safety response matters.** After discovering voice cloning misuse, Microsoft removed VibeVoice-TTS, then restored it with **audible AI disclaimers, imperceptible watermarking, and inference logging** . **These safeguards should be standard practice**—not afterthoughts.
-
-- **Strictly prohibited uses** per Microsoft: **voice impersonation without explicit recorded consent, deepfakes, real-time voice conversion for live deepfakes, and generating non-speech audio** . **Violating these terms may result in account termination and legal liability.**
-
-- **CPU-efficient options exist for edge deployment.** Audio8-TTS runs in **~0.6GB memory** with **19ms per token** on CPU . VibeVoice-ASR-BitNet achieves **real-time inference on 3+ CPU threads** . **No GPU required for basic transcription and synthesis.**
-
-- Self-hosted open-source solutions require proper security hardening, voice consent documentation, and ongoing maintenance. **Generated audio should be clearly disclosed as AI-generated** to comply with emerging regulations (EU AI Act Article 50).
-
-
+20. **[chttr](https://github.com/robjobbed/chttr)** [![GitHub stars](https://img.shields.io/github/stars/robjobbed/chttr?style=social&color=white)](https://github.com/robjobbed/chttr/stargazers)  
+    **Local privacy-first meeting notes and voice dictation for Linux**. Uses local Parakeet ASR, PipeWire system audio capture, WeSpeaker voice embeddings for speaker naming, and Claude-powered markdown generation.
 
 ---
 
+### ⚡ Specialized Engines & Edge Inference
 
+- **[VibeVoice-ASR-BitNet](https://github.com/microsoft/VibeASR.cpp)** — Edge CPU inference engine for VibeVoice-ASR. Heterogeneous quantization (`I8_S` + `I2_S`) compresses the model from 4.62 GB to 1.58 GB with real-time inference (RTF < 1) on 3+ CPU threads without GPU requirements.
+- **[Audio8-TTS-0.1B-ONNX-INT8](https://aihub.caict.ac.cn/models/Audio8/Audio8-TTS-0.1B-ONNX-INT8)** — Ultra-lightweight multilingual TTS (~100M params, ~0.6GB footprint) running ~19ms per token on standard 8-thread CPUs across 11 languages.
+- **[EmbeddingGemma-2-Transcribe-LiteRT](https://huggingface.co/mlboydaisuke/EmbeddingGemma-2-Transcribe-LiteRT)** — On-device Android speech-to-text with all weights and audio processed locally on mobile hardware.
+- **[Qwen3-TTS mlx-audio](https://github.com/Blaizzy/mlx-audio)** — Native Apple Silicon MLX port of Qwen3-TTS.
 
-**Made for podcasters, accessibility engineers, and developers building transparent speech AI solutions.**  
+---
 
-Let's make AI Speech & Voice more open, data-driven, and consent-respecting.
+## 🤝 How to Contribute
+
+Contributions are welcome and highly appreciated! To submit a new SaaS product, open-source tool, or optimization framework:
+
+1. 🍴 **Fork the repository** on GitHub.
+2. 📝 **Add or update the entry** in [`README.md`](README.md):
+   - Include tool name, official link, star badge (if open-source), concise feature summary, pricing, and free tier limits.
+   - For open-source tools, maintain descending sort order based on star counts.
+3. 🚀 **Submit a Pull Request** with a brief summary of additions and official references.
+
+---
+
+## 💖 Support
+
+If you find this curated ecosystem directory useful, please consider:
+- ⭐ **Starring this repository** to help others discover it.
+- 🍴 **Forking and sharing** with AI researchers, podcasters, and developers.
+- ☕ **Sponsoring the project** to fuel ongoing curation, benchmarking, and updates:
+  
+  👉 **[Sponsor on GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)**
+
+Thank you for supporting open, accessible, and ethical AI voice technology!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Speech-Voice&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Speech-Voice&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer & Ethics
+
+- This repository is a **community-curated directory** for educational, engineering, and research purposes.
+- **Explicit Voice Cloning Consent**: AI speech and voice synthesis tools must comply with strict voice cloning consent requirements, wiretapping statutes, and privacy laws (GDPR, CCPA, EU AI Act Article 50). **Never clone a voice without recorded explicit consent.**
+- **Watermarking & Transparency**: In accordance with modern voice AI safety protocols, synthetic speech deployments should utilize audio disclaimers, cryptographic watermarks, and transparent provenance indicators.
+- **Prohibited Use**: Malicious impersonation, unconsented deepfakes, fraud, phishing, or harassment are strictly condemned.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for voice researchers, podcasters, accessibility engineers, and AI developers.</b>
+</p>
